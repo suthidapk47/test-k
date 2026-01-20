@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tulip
+* source:	https://sketchfab.com/3d-models/tulip-e27ce03d41c14949bc147983b818c242
+* author:	Andrii Kryshtop (https://sketchfab.com/Senetin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tulip" (https://sketchfab.com/3d-models/tulip-e27ce03d41c14949bc147983b818c242) by Andrii Kryshtop (https://sketchfab.com/Senetin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
